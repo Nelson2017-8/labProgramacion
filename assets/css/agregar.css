@@ -1,0 +1,14 @@
+.hidden{
+	display: none;
+}
+main{
+	padding: 4em 0;
+	/*min-height: 520px;*/
+}
+form{
+	padding: 4em 0;
+}
+
+#start{
+	padding-top: 10em;
+}
